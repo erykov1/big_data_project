@@ -1,0 +1,6 @@
+scheduler
+psycopg2
+requests
+pandas
+matplotlib
+tkinter
